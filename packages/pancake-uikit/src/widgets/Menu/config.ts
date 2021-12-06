@@ -22,6 +22,21 @@ export const links = [
     href: "/",
   },
   {
+    label: "Lottery",
+    icon: "GloveIcon",
+    href: "/lottery",
+  },
+  {
+    label: "Lottery",
+    icon: "PrivateSaleIcon",
+    href: "/lottery",
+  },
+  {
+    label: "CookieShop",
+    icon: "CookieShopIcon",
+    href: "/lottery",
+  },
+  {
     label: "Trade",
     icon: "TradeIcon",
     items: [
@@ -202,6 +217,7 @@ export const socials = [
     icon: "TwitterIcon",
     href: "https://twitter.com/pancakeswap",
   },
+
 ];
 
 export const MENU_HEIGHT = 64;
