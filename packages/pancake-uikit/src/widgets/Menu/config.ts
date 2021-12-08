@@ -7,7 +7,7 @@ export const status = {
   },
   SOON: <LinkStatus>{
     text: "SOON",
-    color: "warning",
+    color: "primaryBright",
   },
   NEW: <LinkStatus>{
     text: "NEW",
