@@ -10,6 +10,9 @@ export const styleVariants = {
 };
 
 export const styleScales = {
+  [scales.LG]: {
+    height: "22px",
+  },
   [scales.MD]: {
     height: "16px",
   },
